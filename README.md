@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Golam Mostafa</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>  
+<h3 align="center">A Passionate MERN Stack Developer from Bangladesh</h3>  
 
 ![Profile views](https://gpvc.arturio.dev/gm-nayeem)  
 
