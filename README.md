@@ -11,9 +11,9 @@ Let's connect and build something amazing together! 🚀
 
 <br>
 
-<!-- <img src="https://github.com/gm-nayeem.png" alt="Nayeem" width="220" height="220" /> -->
+<img src="https://github.com/gm-nayeem.png" alt="Nayeem" width="200" height="200" />
 
-![Profile views](https://github.com/gm-nayeem.png)
+<!-- ![Profile views](https://github.com/gm-nayeem.png) -->
 
 ## 🔗 Connect with Me
 
