@@ -36,7 +36,7 @@ Let's connect and build something amazing together! 🚀
   </a>
 </p>
 
-## 🛠️ Tech Stack & Tools:
+## 🛠️ Tech Stack & Tools
 
 ### 🚀 Programming Languages:
 
