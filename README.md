@@ -9,9 +9,7 @@ I'm a **full-stack developer** passionate about building scalable, efficient, an
 
 Let's connect and build something amazing together! 🚀
 
-<br>
-
-<img src="https://github.com/gm-nayeem.png" alt="Nayeem" width="200" height="200" />
+<!-- <img src="https://github.com/gm-nayeem.png" alt="Nayeem" width="200" height="200" />  -->
 
 <!-- ![Profile views](https://github.com/gm-nayeem.png) -->
 
